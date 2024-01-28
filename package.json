@@ -2,7 +2,7 @@
   "name": "ecommerce_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mkavya5121.github.io/e-commerce-app/",
+  "homepage": "https://MKavya5121.github.io/ecommerce-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
